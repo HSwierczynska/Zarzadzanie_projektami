@@ -11,11 +11,13 @@ In this README you will find:
 # Our team
 
 1.Hanna Ś., CEO, https://github.com/HSwierczynska
+
 2.Mateusz B., DataBase Mantainer, https://github.com/Kazah321
+
 3.Damian J., UI/UX Designer, https://github.com/damiancode
 
 
-#About the project
+# About the project
 
 -Projects status
 	1. 0/1 finished
