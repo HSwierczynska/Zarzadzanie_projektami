@@ -20,13 +20,19 @@ In this README you will find:
 # About the project
 
 -Projects status
+
+
 	1. 0/1 finished
 	2. 1 started
 
 -To-do list
+
+
 	1. Work on the first project.
 
 -Calendar/Tasks
+
+
 	1.ASAP- start working.
 	2.3 weeks from now- finish the second project.
 
