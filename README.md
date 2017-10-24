@@ -10,19 +10,21 @@ In this README you will find:
 
 # Our team
 
->Hanna Ś., CEO, https://github.com/HSwierczynska
->Mateusz B., DataBase Mantainer, https://github.com/Kazah321
->Damian J., UI/UX Designer, https://github.com/damiancode
+1.Hanna Ś., CEO, https://github.com/HSwierczynska
+2.Mateusz B., DataBase Mantainer, https://github.com/Kazah321
+3.Damian J., UI/UX Designer, https://github.com/damiancode
 
 
->Projects status
-	0/1 finished
-	1 started
+#About the project
 
->To-do list
-	Work on the first project.
+-Projects status
+	1. 0/1 finished
+	2. 1 started
 
->Calendar/Tasks
+-To-do list
+	1. Work on the first project.
+
+-Calendar/Tasks
 	1.ASAP- start working.
 	2.3 weeks from now- finish the second project.
 
