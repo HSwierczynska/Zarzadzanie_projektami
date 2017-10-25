@@ -39,3 +39,9 @@ In this README you will find:
 	2.3 weeks from now- finish the second project.
 
 
+#If you want to communicate with us...
+
+	1. Open an issue.
+	or
+	2. Write to us on Riot.
+	https://riot.im/app/#/room/!IgjDmqwhdbgXOfNooe:matrix.org
