@@ -16,7 +16,7 @@ In this README you will find:
 
 3.Damian J., UI/UX Designer, https://github.com/damiancode
 
-4.Bartłomiej W., WebDeveloper, 
+4.Bartłomiej W., WebDeveloper, https://github.com/PKNCK
 
 
 # About the project
